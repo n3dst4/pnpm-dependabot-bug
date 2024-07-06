@@ -8,11 +8,18 @@ importers:
 
   .:
     dependencies:
+      '@lumphammer/investigator-fvtt-types':
+        specifier: github:n3dst4/investigator-fvtt-types#cards-support-types
+        version: https://codeload.github.com/n3dst4/investigator-fvtt-types/tar.gz/60a416b50644449e7b9bd0629079c47fda46eb6e
       react:
         specifier: '15'
         version: 15.7.0
 
 packages:
+
+  '@lumphammer/investigator-fvtt-types@https://codeload.github.com/n3dst4/investigator-fvtt-types/tar.gz/60a416b50644449e7b9bd0629079c47fda46eb6e':
+    resolution: {tarball: https://codeload.github.com/n3dst4/investigator-fvtt-types/tar.gz/60a416b50644449e7b9bd0629079c47fda46eb6e}
+    version: 1.14.0-alpha.2
 
   asap@2.0.6:
     resolution: {integrity: sha512-BSHWgDSAiKs50o2Re8ppvp3seVHXSRM44cdSsT9FfNEUUZLOGWVCsiWaRPWM1Znn+mqZ1OfVZ3z3DWEzSp7hRA==}
@@ -81,6 +88,8 @@ packages:
     resolution: {integrity: sha512-EqhiFU6daOA8kpjOWTL0olhVOF3i7OrFzSYiGsEMB8GcXS+RrzauAERX65xMeNWVqxA6HXH2m69Z9LaKKdisfg==}
 
 snapshots:
+
+  '@lumphammer/investigator-fvtt-types@https://codeload.github.com/n3dst4/investigator-fvtt-types/tar.gz/60a416b50644449e7b9bd0629079c47fda46eb6e': {}
 
   asap@2.0.6: {}
 
