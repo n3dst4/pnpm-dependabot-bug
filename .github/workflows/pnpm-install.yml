@@ -16,5 +16,7 @@ jobs:
       - uses: pnpm/action-setup@v3
         with:
           version: 8
+      - name: Instrumentation
+        run: pnpm --version
       - name: Install dependencies
         run: pnpm install
