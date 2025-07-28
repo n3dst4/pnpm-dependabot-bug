@@ -44,3 +44,8 @@ In other words, the `https://codeload.github.com/` URL is being changed to a `gi
 This only applies to dependencies on PUBLIC GitHub repos (private repos would require an SSH key anyway.)
 
 If you switch to the dependabot branch locally you probably won't be able to reproduce the issue because you will have SSH keys set up for pushing/pulling to GitHub.
+
+
+## Update 
+
+2025-07-28 Either pnpm or dependabot  has fixed this - currently the PR shows no error. Archiving repo.
