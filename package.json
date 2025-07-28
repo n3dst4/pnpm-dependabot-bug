@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@9.5.0-beta.3+sha512.8b0c4d7fd9937d73f06ad284e681ddfd0f08b8f792a4f854a3ea24d1c7ade57dfe952ce88ed174d57da694e8323f0bb5a25011f780ed2787759c647b35263fa1",
+  "packageManager": "pnpm@10.14.0-0+sha512.2cd47a0cbf5f1d1de7693a88307a0ede5be94e0d3b34853d800ee775efbea0650cb562b77605ec80bc8d925f5cd27c4dfe8bb04d3a0b76090784c664450d32d6",
   "dependencies": {
     "@lumphammer/investigator-fvtt-types": "github:n3dst4/investigator-fvtt-types#cards-support-types",
     "react": "15"
